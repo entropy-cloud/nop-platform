@@ -1,0 +1,6 @@
+[submodule "nop-entropy"]
+	path = nop-entropy
+	url = https://github.com/entropy-cloud/nop-entropy.git
+[submodule "nop-chaos"]
+	path = nop-chaos
+	url = https://github.com/entropy-cloud/nop-chaos.git
